@@ -1,0 +1,16 @@
+{
+  "name": "freeform99/generateblocks-pro-plugin",
+  "description": "",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "git@github.com:freeform99/generateblocks-pro-plugin.git",
+  "authors": [
+    {
+      "name": "Original Plugin Author's Name",
+      "homepage": "https://originalpluginurl.com"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.6"
+  }
+}
